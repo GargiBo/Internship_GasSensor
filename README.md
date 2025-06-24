@@ -50,13 +50,7 @@ The entire system was simulated and verified using Proteus. Ensure all sensor li
 * Integration of a flame sensor to increase detection accuracy
 * IoT capabilities for sending real-time alerts to mobile devices
 * Replacement of servo with a relay module to control an actual water pump
-* 
-## 👥 Project Contributors
-
-Developed by:
-
-* **Tanusha**
-* **Md Adnan Khan**
+  
 
 
 ## 🙌 Get Involved
